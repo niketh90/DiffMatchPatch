@@ -1,0 +1,12 @@
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/bin/Debug/netcoreapp3.1/DiffMatchProject.deps.json
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/bin/Debug/netcoreapp3.1/DiffMatchProject.runtimeconfig.json
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/bin/Debug/netcoreapp3.1/DiffMatchProject.runtimeconfig.dev.json
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/bin/Debug/netcoreapp3.1/DiffMatchProject.dll
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/bin/Debug/netcoreapp3.1/DiffMatchProject.pdb
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.csprojAssemblyReference.cache
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.AssemblyInfoInputs.cache
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.AssemblyInfo.cs
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.csproj.CoreCompileInputs.cache
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.dll
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.pdb
+/Users/u6067468/Projects/DiffMatchProject/DiffMatchProject/obj/Debug/netcoreapp3.1/DiffMatchProject.genruntimeconfig.cache
